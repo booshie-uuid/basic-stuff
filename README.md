@@ -1,8 +1,8 @@
 # MY (Q)BASIC STUFF
 
-A repository to preserve my old QuickBASIC projects as I recover and test them.
+A repository to preserve my old QuickBASIC projects as I restore and test them.
 
-* **AMAZE.BAS**: A cool little random maze generator.
+* **AMAZE.BAS**: Generates cool little random mazes for you to explore.
 * **QB3D.BAS**: Rotates and draws basic 3D shapes (cube, pyramid, and "sphere").
 
 Honestly there is nothing special about this code. There are much cleaner and cleverer examples out there.
