@@ -3,7 +3,7 @@
 A repository to preserve my old QuickBASIC projects as I restore and test them.
 
 * **AMAZE.BAS**: Generates cool little random mazes for you to explore.
-* **QB3D.BAS**: Rotates and draws basic 3D shapes (cube, pyramid, and "sphere").
+* **QB3D.BAS**: Rotates and draws simple 3D shapes (cube, pyramid, and "sphere").
 
 Honestly there is nothing special about this code. There are much cleaner and cleverer examples out there.
 
